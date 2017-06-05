@@ -1,0 +1,47 @@
+.lista {
+font-family: 'Libre Franklin', sans-serif;
+color: black;
+columns: 5;
+background-color: rgba(255, 255, 255, 0.22);
+margin-left: 20%;
+margin-right: 20%;
+}
+a{
+color: white;
+text-decoration: none;
+}
+.apartados {
+columns: 3;
+column-gap: 80px;
+}
+.prueba_letras3 {
+color: #ffffff;
+text-align: center;
+font-family: 'Libre Franklin', sans-serif;
+}
+.fondo {
+background-color: #000000;
+}
+.relleno {
+margin:50px;
+background-color:#000000;
+border-style: solid;
+border-bottom-color: aliceblue;
+}
+img {
+margin:15px;
+}
+.subititulos {
+font-family: 'Libre Franklin', sans-serif;
+text-align: center;
+color: aliceblue;
+}
+h1 {
+	color: white;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+p {
+	color: white;
+	font-family: 'Libre Franklin', sans-serif;
+}
